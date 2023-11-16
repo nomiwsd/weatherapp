@@ -5,6 +5,7 @@
 The Vite React Weather App is a simple yet powerful weather application built using Vite and React.js. This app allows users to check the current weather conditions for a specific location by leveraging the OpenWeather API.
 
 **Features**
+
 **Real-time Weather Data:** Retrieve and display up-to-date weather information.
 
 **Responsive Design:** Ensures a seamless experience across various devices.
