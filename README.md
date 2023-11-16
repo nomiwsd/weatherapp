@@ -38,6 +38,7 @@ npm install
 
 **Configuration**
 **Obtain OpenWeather API Key:**
+
 Visit OpenWeather and sign up for an API key.
 
 Copy the API key.
